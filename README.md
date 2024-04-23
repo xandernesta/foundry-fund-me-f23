@@ -3,6 +3,15 @@
 3. Programtic Verification of Contracts in Foundry
 4. Push to Github
 
+# About
+This is a crowd sourcing app, built following Patrick Collins' Solidity Youtube course!
+
+# Getting Started
+
+## Requirements
+
+## Quickstart
+
 
 
 ## Foundry
