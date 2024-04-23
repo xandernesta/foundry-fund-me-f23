@@ -1,3 +1,10 @@
+1. Proper README
+2. Integration Tests
+3. Programtic Verification of Contracts in Foundry
+4. Push to Github
+
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
